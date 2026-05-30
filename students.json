@@ -1,0 +1,3122 @@
+[
+  {
+    "candidate_id": "02445918384",
+    "full_id": "02445918384-002",
+    "name": "ABOUDOU AMOUSSA Inès Naïmatou Olayémi",
+    "family_name": "ABOUDOU AMOUSSA",
+    "first_name": "Inès Naïmatou Olayémi",
+    "dob": "16/09/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP020",
+      "label": "Lang litt cult étr rég-ANGMC",
+      "value": 13.1
+    },
+    "french_written": 11.0,
+    "french_oral": 13.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 13.8
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.1
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.3
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 11.0
+      },
+      "LP020": {
+        "label": "Spé : Lang litt cult étr rég-ANGMC",
+        "value": 13.1
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.3
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 10.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02445907756",
+    "full_id": "02445907756-002",
+    "name": "ACETO NDIAYE Awa",
+    "family_name": "ACETO",
+    "first_name": "NDIAYE Awa",
+    "dob": "15/12/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP013",
+      "label": "Huma. littérature philo",
+      "value": 10.5
+    },
+    "french_written": 15.0,
+    "french_oral": 11.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 9.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 15.6
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.3
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 15.4
+      },
+      "LP013": {
+        "label": "Spé : Huma. littérature philo",
+        "value": 10.5
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 12.9
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.8
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.3
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.0
+      }
+    }
+  },
+  {
+    "candidate_id": "02445918815",
+    "full_id": "02445918815-002",
+    "name": "APACK Nayla Marie",
+    "family_name": "APACK",
+    "first_name": "Nayla Marie",
+    "dob": "27/06/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 11.1
+    },
+    "french_written": 16.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 14.6
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.3
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.5
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 11.7
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 11.1
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.7
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 14.6
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.0
+      }
+    }
+  },
+  {
+    "candidate_id": "02445918863",
+    "full_id": "02445918863-002",
+    "name": "ARRON Hélène",
+    "family_name": "ARRON",
+    "first_name": "Hélène",
+    "dob": "13/09/2008",
+    "specialties": [
+      "Mathématiques",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP016",
+      "label": "Physique-Chimie",
+      "value": 16.2
+    },
+    "french_written": 20.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 17.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.0
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.1
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 16.8
+      },
+      "LP016": {
+        "label": "Spécialité : Physique-Chimie",
+        "value": 16.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 16.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.7
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 19.1
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 16.6
+      }
+    }
+  },
+  {
+    "candidate_id": "02445919026",
+    "full_id": "02445919026-002",
+    "name": "BA Khalifa Ababacar",
+    "family_name": "BA",
+    "first_name": "Khalifa Ababacar",
+    "dob": "25/10/2008",
+    "specialties": [
+      "Mathématiques",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 11.3
+    },
+    "french_written": 11.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.1
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 11.4
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.9
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 11.5
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 11.3
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 13.0
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.5
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 11.1
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.0
+      }
+    }
+  },
+  {
+    "candidate_id": "02445919443",
+    "full_id": "02445919443-002",
+    "name": "BABO Yanis Christopher Gnezebo",
+    "family_name": "BABO",
+    "first_name": "Yanis Christopher Gnezebo",
+    "dob": "18/03/2008",
+    "specialties": [
+      "Mathématiques",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP016",
+      "label": "Physique-Chimie",
+      "value": 15.9
+    },
+    "french_written": 18.0,
+    "french_oral": 16.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 14.8
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 15.7
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.5
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 14.7
+      },
+      "LP016": {
+        "label": "Spécialité : Physique-Chimie",
+        "value": 15.9
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 17.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.7
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.1
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.2
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 15.8
+      }
+    }
+  },
+  {
+    "candidate_id": "02247562362",
+    "full_id": "02247562362-003",
+    "name": "BARIC Yerim Cyprien",
+    "family_name": "BARIC",
+    "first_name": "Yerim Cyprien",
+    "dob": "07/07/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 8.2
+    },
+    "french_written": 14.0,
+    "french_oral": 15.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.8
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.3
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.1
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.3
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 9.3
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 8.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 13.0
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 19.3
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 18.1
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.6
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461758",
+    "full_id": "02246461758-003",
+    "name": "BASTIDE AHMED Malik",
+    "family_name": "BASTIDE AHMED",
+    "first_name": "Malik",
+    "dob": "07/08/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 13.5
+    },
+    "french_written": 10.0,
+    "french_oral": 16.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 13.7
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.8
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.2
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 12.0
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 13.5
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 12.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.2
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.1
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.6
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461759",
+    "full_id": "02246461759-003",
+    "name": "BELKHAYAT ZOUKKARI Mouna",
+    "family_name": "BELKHAYAT ZOUKKARI",
+    "first_name": "Mouna",
+    "dob": "17/05/2008",
+    "specialties": [
+      "Mathématiques",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 17.5
+    },
+    "french_written": 15.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 18.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 19.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.8
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.5
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 15.6
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 17.5
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 17.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.4
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.3
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 18.4
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 15.2
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461760",
+    "full_id": "02246461760-003",
+    "name": "BRARD Louka",
+    "family_name": "BRARD",
+    "first_name": "Louka",
+    "dob": "22/11/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 10.6
+    },
+    "french_written": 12.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.8
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 6.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.8
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 10.6
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 10.6
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 8.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 8.8
+      }
+    }
+  },
+  {
+    "candidate_id": "02445919575",
+    "full_id": "02445919575-002",
+    "name": "BRUNIE Sarah Amandine",
+    "family_name": "BRUNIE",
+    "first_name": "Sarah Amandine",
+    "dob": "01/12/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 11.2
+    },
+    "french_written": 9.0,
+    "french_oral": 13.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 10.7
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 8.9
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 13.5
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 11.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 9.2
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.7
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.1
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.3
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461762",
+    "full_id": "02246461762-003",
+    "name": "BUOVOLO Mariam",
+    "family_name": "BUOVOLO",
+    "first_name": "Mariam",
+    "dob": "14/04/2009",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 18.2
+    },
+    "french_written": 19.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 17.6
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.5
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.2
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 19.5
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 17.8
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 18.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 17.1
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.9
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 19.9
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 17.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02445925073",
+    "full_id": "02445925073-002",
+    "name": "CERNEJESKI Hugo",
+    "family_name": "CERNEJESKI",
+    "first_name": "Hugo",
+    "dob": "05/03/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP014",
+      "label": "Mathématiques",
+      "value": 5.3
+    },
+    "french_written": 9.0,
+    "french_oral": 10.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.5
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 10.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.2
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 9.7
+      },
+      "LP014": {
+        "label": "Spécialité : Mathématiques",
+        "value": 5.3
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.0
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.0
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 11.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.2
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 16.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02445925288",
+    "full_id": "02445925288-002",
+    "name": "CISSE Combe",
+    "family_name": "CISSE",
+    "first_name": "Combe",
+    "dob": "10/01/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 12.2
+    },
+    "french_written": 9.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.3
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.5
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.5
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 13.1
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 12.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 12.0
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.8
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.1
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 15.3
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461766",
+    "full_id": "02246461766-003",
+    "name": "CISSE Ibrahima",
+    "family_name": "CISSE",
+    "first_name": "Ibrahima",
+    "dob": "27/03/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 10.3
+    },
+    "french_written": 9.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 13.3
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.0
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.5
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 11.8
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 10.3
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 16.0
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.7
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 14.4
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461767",
+    "full_id": "02246461767-003",
+    "name": "DANCOING Louna Amina",
+    "family_name": "DANCOING",
+    "first_name": "Louna Amina",
+    "dob": "06/01/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 12.0
+    },
+    "french_written": 18.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.3
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.9
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 10.2
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 12.0
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.3
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.2
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.2
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.7
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02349049630",
+    "full_id": "02349049630-004",
+    "name": "DE GAIGNERON JOLLIMON DE MAROLLES Philippine Sabine Marie",
+    "family_name": "DE GAIGNERON JOLLIMON DE MAROLLES",
+    "first_name": "Philippine Sabine Marie",
+    "dob": "01/07/2007",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP020",
+      "label": "Lang litt cult étr rég-ANGMC",
+      "value": 13.3
+    },
+    "french_written": 15.0,
+    "french_oral": 19.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 14.2
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 15.1
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.1
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 14.4
+      },
+      "LP020": {
+        "label": "Spé : Lang litt cult étr rég-ANGMC",
+        "value": 13.3
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 16.7
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.2
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.4
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 14.7
+      }
+    }
+  },
+  {
+    "candidate_id": "02445926033",
+    "full_id": "02445926033-002",
+    "name": "DJOUKWE David Levi",
+    "family_name": "DJOUKWE",
+    "first_name": "David Levi",
+    "dob": "27/12/2008",
+    "specialties": [
+      "Mathématiques",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 10.1
+    },
+    "french_written": 9.0,
+    "french_oral": 13.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.4
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.1
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.7
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 10.8
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 10.1
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 12.7
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.8
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.6
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.6
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461773",
+    "full_id": "02246461773-003",
+    "name": "FALL CLAMENS Omar Louis",
+    "family_name": "FALL CLAMENS",
+    "first_name": "Omar Louis",
+    "dob": "01/02/2007",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 8.9
+    },
+    "french_written": 7.0,
+    "french_oral": 12.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.1
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 9.3
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 11.3
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 8.5
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 8.9
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.3
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.3
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.1
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 9.4
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 9.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02445929187",
+    "full_id": "02445929187-002",
+    "name": "FALL Djellya Yacine",
+    "family_name": "FALL",
+    "first_name": "Djellya Yacine",
+    "dob": "22/01/2008",
+    "specialties": [
+      "Mathématiques",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP016",
+      "label": "Physique-Chimie",
+      "value": 15.7
+    },
+    "french_written": 17.0,
+    "french_oral": 16.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 17.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.6
+      },
+      "LP004": {
+        "label": "Langue vivante B-Allemd",
+        "value": 14.6
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 15.3
+      },
+      "LP016": {
+        "label": "Spécialité : Physique-Chimie",
+        "value": 15.7
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.4
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.8
+      },
+      "LT004": {
+        "label": "Langue vivante B-Allemd",
+        "value": 16.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 16.4
+      }
+    }
+  },
+  {
+    "candidate_id": "02445920234",
+    "full_id": "02445920234-002",
+    "name": "GALAND Aurélien",
+    "family_name": "GALAND",
+    "first_name": "Aurélien",
+    "dob": "01/11/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 11.6
+    },
+    "french_written": 10.0,
+    "french_oral": 15.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.7
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 11.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 9.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.7
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 15.0
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 11.6
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.5
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 11.6
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 12.7
+      }
+    }
+  },
+  {
+    "candidate_id": "02445926177",
+    "full_id": "02445926177-002",
+    "name": "GAZI Ethan Charles",
+    "family_name": "GAZI",
+    "first_name": "Ethan Charles",
+    "dob": "04/08/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 11.1
+    },
+    "french_written": 8.0,
+    "french_oral": 11.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 9.2
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.9
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 9.5
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 9.2
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 11.1
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 10.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.0
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.9
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 10.1
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461778",
+    "full_id": "02246461778-003",
+    "name": "JACOBE Lou",
+    "family_name": "JACOBE",
+    "first_name": "Lou",
+    "dob": "01/06/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 12.3
+    },
+    "french_written": 13.0,
+    "french_oral": 16.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.5
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.6
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 14.4
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 13.6
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 12.3
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 12.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.6
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.7
+      }
+    }
+  },
+  {
+    "candidate_id": "02250730245",
+    "full_id": "02250730245-003",
+    "name": "KOUROUMA Bakary",
+    "family_name": "KOUROUMA",
+    "first_name": "Bakary",
+    "dob": "04/11/2006",
+    "specialties": [
+      "Mathématiques",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 11.0
+    },
+    "french_written": 10.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.5
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 10.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 11.9
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 12.2
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 11.0
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.2
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 15.5
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 11.7
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 10.8
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461779",
+    "full_id": "02246461779-003",
+    "name": "LANZETTI Luigi",
+    "family_name": "LANZETTI",
+    "first_name": "Luigi",
+    "dob": "20/10/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 9.9
+    },
+    "french_written": 12.0,
+    "french_oral": 15.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.8
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.0
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 12.5
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 9.9
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 14.3
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.0
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 12.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02348541555",
+    "full_id": "02348541555-003",
+    "name": "MAREGA Yssa Naman",
+    "family_name": "MAREGA",
+    "first_name": "Yssa Naman",
+    "dob": "15/07/2006",
+    "specialties": [
+      "Mathématiques",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP016",
+      "label": "Physique-Chimie",
+      "value": 3.0
+    },
+    "french_written": 8.0,
+    "french_oral": 13.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 9.5
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 11.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Allemd",
+        "value": 7.0
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 12.0
+      },
+      "LP016": {
+        "label": "Spécialité : Physique-Chimie",
+        "value": 3.0
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 10.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 11.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.7
+      },
+      "LT004": {
+        "label": "Langue vivante B-Allemd",
+        "value": 16.4
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 8.4
+      }
+    }
+  },
+  {
+    "candidate_id": "02447121927",
+    "full_id": "02447121927-002",
+    "name": "MBOUP Mame Diarra",
+    "family_name": "MBOUP",
+    "first_name": "Mame Diarra",
+    "dob": "06/12/2009",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 13.3
+    },
+    "french_written": 17.0,
+    "french_oral": 17.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 13.3
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.5
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.4
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.0
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 10.6
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 13.3
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 13.9
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.3
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.9
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.0
+      }
+    }
+  },
+  {
+    "candidate_id": "02445927025",
+    "full_id": "02445927025-002",
+    "name": "MBOW Ramatoulaye",
+    "family_name": "MBOW",
+    "first_name": "Ramatoulaye",
+    "dob": "14/12/2007",
+    "specialties": [
+      "Physique-chimie",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP014",
+      "label": "Mathématiques",
+      "value": 16.1
+    },
+    "french_written": 17.0,
+    "french_oral": 15.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 15.4
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 18.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.0
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.5
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 16.0
+      },
+      "LP014": {
+        "label": "Spécialité : Mathématiques",
+        "value": 16.1
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.9
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.4
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.5
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 16.7
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461783",
+    "full_id": "02246461783-003",
+    "name": "MERDJANOPOULOS Louka Jeff Gérard",
+    "family_name": "MERDJANOPOULOS",
+    "first_name": "Louka Jeff Gérard",
+    "dob": "24/11/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 12.7
+    },
+    "french_written": 12.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 12.0
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.6
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 11.3
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 12.7
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 9.7
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.5
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.6
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 14.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461784",
+    "full_id": "02246461784-003",
+    "name": "MESSINA--EMIEUX Tom",
+    "family_name": "MESSINA--EMIEUX",
+    "first_name": "Tom",
+    "dob": "19/08/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP020",
+      "label": "Lang litt cult étr rég-ANGMC",
+      "value": 8.2
+    },
+    "french_written": 8.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.1
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 7.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 9.4
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 9.3
+      },
+      "LP020": {
+        "label": "Spé : Lang litt cult étr rég-ANGMC",
+        "value": 8.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 8.5
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 9.8
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.3
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461785",
+    "full_id": "02246461785-003",
+    "name": "MINGOU Cécilia Rita",
+    "family_name": "MINGOU",
+    "first_name": "Cécilia Rita",
+    "dob": "21/10/2007",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP020",
+      "label": "Lang litt cult étr rég-ANGMC",
+      "value": 12.2
+    },
+    "french_written": 11.0,
+    "french_oral": 12.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.7
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 11.1
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.4
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 9.9
+      },
+      "LP020": {
+        "label": "Spé : Lang litt cult étr rég-ANGMC",
+        "value": 12.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 12.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.4
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 14.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 9.9
+      }
+    }
+  },
+  {
+    "candidate_id": "02445927372",
+    "full_id": "02445927372-002",
+    "name": "MONTMASSON Helena Amy",
+    "family_name": "MONTMASSON",
+    "first_name": "Helena Amy",
+    "dob": "27/08/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 14.2
+    },
+    "french_written": 18.0,
+    "french_oral": 17.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 15.4
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.3
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.4
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 14.5
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 14.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 16.5
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.7
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 19.5
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.3
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 12.8
+      }
+    }
+  },
+  {
+    "candidate_id": "02246455458",
+    "full_id": "02246455458-003",
+    "name": "MOUABE Aaron Stephane",
+    "family_name": "MOUABE",
+    "first_name": "Aaron Stephane",
+    "dob": "06/02/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP014",
+      "label": "Mathématiques",
+      "value": 7.4
+    },
+    "french_written": 10.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.4
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.2
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 10.4
+      },
+      "LP014": {
+        "label": "Spécialité : Mathématiques",
+        "value": 7.4
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 10.3
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 15.6
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.2
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.3
+      }
+    }
+  },
+  {
+    "candidate_id": "02445927973",
+    "full_id": "02445927973-002",
+    "name": "NDAW Mary Louise Yacine",
+    "family_name": "NDAW",
+    "first_name": "Mary Louise Yacine",
+    "dob": "05/02/2009",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 8.9
+    },
+    "french_written": 13.0,
+    "french_oral": 20.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.6
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.8
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 11.6
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 8.9
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 14.9
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.7
+      }
+    }
+  },
+  {
+    "candidate_id": "02445927445",
+    "full_id": "02445927445-002",
+    "name": "NDOUR Fatou",
+    "family_name": "NDOUR",
+    "first_name": "Fatou",
+    "dob": "21/09/2007",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Histoire-géographie, géopolitique et sciences politiques"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 7.6
+    },
+    "french_written": 8.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.4
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 7.4
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.0
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 10.7
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 7.6
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 10.1
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.2
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.1
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 11.7
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 8.4
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461795",
+    "full_id": "02246461795-003",
+    "name": "NGOM Khadija",
+    "family_name": "NGOM",
+    "first_name": "Khadija",
+    "dob": "01/03/2008",
+    "specialties": [
+      "Histoire-géographie, géopolitique et sciences politiques",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 14.2
+    },
+    "french_written": 12.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 14.0
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.6
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.2
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 12.2
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 14.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 14.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.0
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.5
+      }
+    }
+  },
+  {
+    "candidate_id": "02445928233",
+    "full_id": "02445928233-002",
+    "name": "NIANG Papa Ibrahima Cheikh",
+    "family_name": "NIANG",
+    "first_name": "Papa Ibrahima Cheikh",
+    "dob": "19/02/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP020",
+      "label": "Lang litt cult étr rég-ANGMC",
+      "value": 17.0
+    },
+    "french_written": 10.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.7
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 19.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.0
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.2
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 14.1
+      },
+      "LP020": {
+        "label": "Spé : Lang litt cult étr rég-ANGMC",
+        "value": 17.0
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 8.4
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.6
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.8
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.9
+      }
+    }
+  },
+  {
+    "candidate_id": "02247788101",
+    "full_id": "02247788101-003",
+    "name": "PERINER Angie Michelle Ruby",
+    "family_name": "PERINER",
+    "first_name": "Angie Michelle Ruby",
+    "dob": "11/06/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP016",
+      "label": "Physique-Chimie",
+      "value": 15.5
+    },
+    "french_written": 15.0,
+    "french_oral": 18.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 13.7
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.4
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.4
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 15.0
+      },
+      "LP016": {
+        "label": "Spécialité : Physique-Chimie",
+        "value": 15.5
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.9
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 20.0
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 14.6
+      }
+    }
+  },
+  {
+    "candidate_id": "02445928546",
+    "full_id": "02445928546-002",
+    "name": "RAGUIN Kesya Marème Thérèse",
+    "family_name": "RAGUIN",
+    "first_name": "Kesya Marème Thérèse",
+    "dob": "11/08/2009",
+    "specialties": [
+      "Physique-chimie",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP014",
+      "label": "Mathématiques",
+      "value": 14.7
+    },
+    "french_written": 18.0,
+    "french_oral": 16.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 15.6
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.9
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.3
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.5
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 15.1
+      },
+      "LP014": {
+        "label": "Spécialité : Mathématiques",
+        "value": 14.7
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.5
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.3
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.3
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.8
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 16.4
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461804",
+    "full_id": "02246461804-003",
+    "name": "RISPAL Charlie Lou Jane",
+    "family_name": "RISPAL",
+    "first_name": "Charlie Lou Jane",
+    "dob": "23/09/2008",
+    "specialties": [
+      "Physique-chimie",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP014",
+      "label": "Mathématiques",
+      "value": 12.0
+    },
+    "french_written": 11.0,
+    "french_oral": 17.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.3
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.9
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 10.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.7
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 13.7
+      },
+      "LP014": {
+        "label": "Spécialité : Mathématiques",
+        "value": 12.0
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 14.2
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.2
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.5
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 14.4
+      }
+    }
+  },
+  {
+    "candidate_id": "02445928615",
+    "full_id": "02445928615-002",
+    "name": "ROWLAND Noah Dilhane",
+    "family_name": "ROWLAND",
+    "first_name": "Noah Dilhane",
+    "dob": "19/12/2008",
+    "specialties": [
+      "Sciences économiques et sociales",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 5.2
+    },
+    "french_written": 9.0,
+    "french_oral": 11.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.1
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.8
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.2
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.6
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 11.2
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 5.2
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 9.3
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.0
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.9
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.7
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 11.2
+      }
+    }
+  },
+  {
+    "candidate_id": "02147160592",
+    "full_id": "02147160592-003",
+    "name": "SIDHOUM Anas",
+    "family_name": "SIDHOUM",
+    "first_name": "Anas",
+    "dob": "04/03/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 8.0
+    },
+    "french_written": 9.0,
+    "french_oral": 9.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 10.1
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 12.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 8.9
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 11.2
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 8.0
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 7.9
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.4
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.7
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.9
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 10.0
+      }
+    }
+  },
+  {
+    "candidate_id": "02445928354",
+    "full_id": "02445928354-002",
+    "name": "SOBLOG Oscar Jephte Joseph",
+    "family_name": "SOBLOG",
+    "first_name": "Oscar Jephte Joseph",
+    "dob": "22/02/2009",
+    "specialties": [
+      "Physique-chimie",
+      "Sciences de la vie et de la terre"
+    ],
+    "dropped_specialty": {
+      "code": "LP014",
+      "label": "Mathématiques",
+      "value": 7.7
+    },
+    "french_written": 11.0,
+    "french_oral": 16.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.6
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 12.5
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 4.1
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 7.7
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 13.5
+      },
+      "LP014": {
+        "label": "Spécialité : Mathématiques",
+        "value": 7.7
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 10.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.2
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 8.1
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 10.9
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.8
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461814",
+    "full_id": "02246461814-003",
+    "name": "SON Ye Seon",
+    "family_name": "SON",
+    "first_name": "Ye Seon",
+    "dob": "06/05/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Sciences économiques et sociales"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 15.4
+    },
+    "french_written": 19.0,
+    "french_oral": 19.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 15.2
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.2
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.9
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 14.3
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 15.4
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 15.6
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.2
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 17.3
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.9
+      }
+    }
+  },
+  {
+    "candidate_id": "02445928514",
+    "full_id": "02445928514-002",
+    "name": "SOW Aminata Soraya",
+    "family_name": "SOW",
+    "first_name": "Aminata Soraya",
+    "dob": "03/02/2008",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 11.9
+    },
+    "french_written": 13.0,
+    "french_oral": 13.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 11.9
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 17.2
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.5
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 14.2
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 10.6
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 11.9
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 11.8
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 14.6
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 18.7
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 16.3
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 10.2
+      }
+    }
+  },
+  {
+    "candidate_id": "02147160670",
+    "full_id": "02147160670-003",
+    "name": "SOW Diye",
+    "family_name": "SOW",
+    "first_name": "Diye",
+    "dob": "03/10/2007",
+    "specialties": [
+      "Sciences de la vie et de la terre",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP012",
+      "label": "Hist-géo, géopol sc pol",
+      "value": 8.7
+    },
+    "french_written": 11.0,
+    "french_oral": 11.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 9.2
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 13.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.7
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 12.4
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 11.7
+      },
+      "LP012": {
+        "label": "Spé : Hist-géo, géopol sc pol",
+        "value": 8.7
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 9.7
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 10.9
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 13.3
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 9.4
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 12.0
+      }
+    }
+  },
+  {
+    "candidate_id": "02445928720",
+    "full_id": "02445928720-002",
+    "name": "WONE Fatimata",
+    "family_name": "WONE",
+    "first_name": "Fatimata",
+    "dob": "10/09/2008",
+    "specialties": [
+      "Histoire-géographie, géopolitique et sciences politiques",
+      "Langues, littératures et cultures étrangères et régionales - Anglais, monde contemporain"
+    ],
+    "dropped_specialty": {
+      "code": "LP019",
+      "label": "Scienc. éco. et sociales",
+      "value": 12.5
+    },
+    "french_written": 16.0,
+    "french_oral": 10.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.5
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.0
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 16.9
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 15.5
+      },
+      "LP007": {
+        "label": "Ens. Scien. Maths spécif. 1ère",
+        "value": 10.1
+      },
+      "LP019": {
+        "label": "Spé : Scienc. éco. et sociales",
+        "value": 12.5
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 13.2
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 16.4
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 19.2
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 17.3
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 9.8
+      }
+    }
+  },
+  {
+    "candidate_id": "02246461820",
+    "full_id": "02246461820-003",
+    "name": "ZARB Frédy",
+    "family_name": "ZARB",
+    "first_name": "Frédy",
+    "dob": "10/12/2008",
+    "specialties": [
+      "Mathématiques",
+      "Physique-chimie"
+    ],
+    "dropped_specialty": {
+      "code": "LP017",
+      "label": "Sc. vie et terre",
+      "value": 11.6
+    },
+    "french_written": 12.0,
+    "french_oral": 14.0,
+    "grades": {
+      "LP001": {
+        "label": "Histoire-géographie",
+        "value": 12.8
+      },
+      "LP002": {
+        "label": "Enseignement moral et civique",
+        "value": 11.7
+      },
+      "LP003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.2
+      },
+      "LP004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.7
+      },
+      "LP005": {
+        "label": "Enseignement scientifique",
+        "value": 13.5
+      },
+      "LP017": {
+        "label": "Spé : Sc. vie et terre",
+        "value": 11.6
+      },
+      "LT001": {
+        "label": "Histoire-géographie",
+        "value": 10.1
+      },
+      "LT002": {
+        "label": "Enseignement moral et civique",
+        "value": 15.1
+      },
+      "LT003": {
+        "label": "Langue vivante A-Anglais",
+        "value": 14.9
+      },
+      "LT004": {
+        "label": "Langue vivante B-Espagn.",
+        "value": 13.0
+      },
+      "LT005": {
+        "label": "Enseignement scientifique",
+        "value": 13.5
+      }
+    }
+  }
+]
