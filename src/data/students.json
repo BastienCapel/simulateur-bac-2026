@@ -62,7 +62,8 @@
         "label": "Enseignement scientifique",
         "value": 10.5
       }
-    }
+    },
+    "eps_grade": 16.42
   },
   {
     "candidate_id": "02445907756",
@@ -127,7 +128,8 @@
         "label": "Enseignement scientifique",
         "value": 11.0
       }
-    }
+    },
+    "eps_grade": 16.58
   },
   {
     "candidate_id": "02445918815",
@@ -192,7 +194,8 @@
         "label": "Enseignement scientifique",
         "value": 11.0
       }
-    }
+    },
+    "eps_grade": 17.58
   },
   {
     "candidate_id": "02445918863",
@@ -257,7 +260,8 @@
         "label": "Enseignement scientifique",
         "value": 16.6
       }
-    }
+    },
+    "eps_grade": 18.33
   },
   {
     "candidate_id": "02445919026",
@@ -322,7 +326,8 @@
         "label": "Enseignement scientifique",
         "value": 11.0
       }
-    }
+    },
+    "eps_grade": 16.0
   },
   {
     "candidate_id": "02445919443",
@@ -387,7 +392,8 @@
         "label": "Enseignement scientifique",
         "value": 15.8
       }
-    }
+    },
+    "eps_grade": 19.0
   },
   {
     "candidate_id": "02247562362",
@@ -452,7 +458,8 @@
         "label": "Enseignement scientifique",
         "value": 11.6
       }
-    }
+    },
+    "eps_grade": 17.67
   },
   {
     "candidate_id": "02246461758",
@@ -517,7 +524,8 @@
         "label": "Enseignement scientifique",
         "value": 13.6
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02246461759",
@@ -582,7 +590,8 @@
         "label": "Enseignement scientifique",
         "value": 15.2
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02246461760",
@@ -647,7 +656,8 @@
         "label": "Enseignement scientifique",
         "value": 8.8
       }
-    }
+    },
+    "eps_grade": 16.0
   },
   {
     "candidate_id": "02445919575",
@@ -712,7 +722,8 @@
         "label": "Enseignement scientifique",
         "value": 13.3
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02246461762",
@@ -777,7 +788,8 @@
         "label": "Enseignement scientifique",
         "value": 17.5
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02445925073",
@@ -842,7 +854,8 @@
         "label": "Enseignement scientifique",
         "value": 16.5
       }
-    }
+    },
+    "eps_grade": 19.67
   },
   {
     "candidate_id": "02445925288",
@@ -907,7 +920,8 @@
         "label": "Enseignement scientifique",
         "value": 15.3
       }
-    }
+    },
+    "eps_grade": 16.17
   },
   {
     "candidate_id": "02246461766",
@@ -972,7 +986,8 @@
         "label": "Enseignement scientifique",
         "value": 11.5
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02246461767",
@@ -1037,7 +1052,8 @@
         "label": "Enseignement scientifique",
         "value": 11.5
       }
-    }
+    },
+    "eps_grade": 18.67
   },
   {
     "candidate_id": "02349049630",
@@ -1102,7 +1118,8 @@
         "label": "Enseignement scientifique",
         "value": 14.7
       }
-    }
+    },
+    "eps_grade": 18.67
   },
   {
     "candidate_id": "02445926033",
@@ -1167,7 +1184,8 @@
         "label": "Enseignement scientifique",
         "value": 11.6
       }
-    }
+    },
+    "eps_grade": 16.0
   },
   {
     "candidate_id": "02246461773",
@@ -1232,7 +1250,8 @@
         "label": "Enseignement scientifique",
         "value": 9.5
       }
-    }
+    },
+    "eps_grade": 18.0
   },
   {
     "candidate_id": "02445929187",
@@ -1297,7 +1316,8 @@
         "label": "Enseignement scientifique",
         "value": 16.4
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02445920234",
@@ -1362,7 +1382,8 @@
         "label": "Enseignement scientifique",
         "value": 12.7
       }
-    }
+    },
+    "eps_grade": 18.0
   },
   {
     "candidate_id": "02445926177",
@@ -1427,7 +1448,8 @@
         "label": "Enseignement scientifique",
         "value": 10.1
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02246461778",
@@ -1492,7 +1514,8 @@
         "label": "Enseignement scientifique",
         "value": 13.7
       }
-    }
+    },
+    "eps_grade": 19.0
   },
   {
     "candidate_id": "02250730245",
@@ -1557,7 +1580,8 @@
         "label": "Enseignement scientifique",
         "value": 10.8
       }
-    }
+    },
+    "eps_grade": 19.0
   },
   {
     "candidate_id": "02246461779",
@@ -1622,7 +1646,8 @@
         "label": "Enseignement scientifique",
         "value": 12.5
       }
-    }
+    },
+    "eps_grade": 16.0
   },
   {
     "candidate_id": "02348541555",
@@ -1687,7 +1712,8 @@
         "label": "Enseignement scientifique",
         "value": 8.4
       }
-    }
+    },
+    "eps_grade": 15.0
   },
   {
     "candidate_id": "02447121927",
@@ -1752,7 +1778,8 @@
         "label": "Enseignement scientifique",
         "value": 13.0
       }
-    }
+    },
+    "eps_grade": 14.33
   },
   {
     "candidate_id": "02445927025",
@@ -1817,7 +1844,8 @@
         "label": "Enseignement scientifique",
         "value": 16.7
       }
-    }
+    },
+    "eps_grade": 16.67
   },
   {
     "candidate_id": "02246461783",
@@ -1882,7 +1910,8 @@
         "label": "Enseignement scientifique",
         "value": 14.5
       }
-    }
+    },
+    "eps_grade": 19.33
   },
   {
     "candidate_id": "02246461784",
@@ -1947,7 +1976,8 @@
         "label": "Enseignement scientifique",
         "value": 11.3
       }
-    }
+    },
+    "eps_grade": 19.17
   },
   {
     "candidate_id": "02246461785",
@@ -2012,7 +2042,8 @@
         "label": "Enseignement scientifique",
         "value": 9.9
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02445927372",
@@ -2077,7 +2108,8 @@
         "label": "Enseignement scientifique",
         "value": 12.8
       }
-    }
+    },
+    "eps_grade": 17.33
   },
   {
     "candidate_id": "02246455458",
@@ -2142,7 +2174,8 @@
         "label": "Enseignement scientifique",
         "value": 11.3
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02445927973",
@@ -2207,7 +2240,8 @@
         "label": "Enseignement scientifique",
         "value": 11.7
       }
-    }
+    },
+    "eps_grade": 18.58
   },
   {
     "candidate_id": "02445927445",
@@ -2272,7 +2306,8 @@
         "label": "Enseignement scientifique",
         "value": 8.4
       }
-    }
+    },
+    "eps_grade": 15.58
   },
   {
     "candidate_id": "02246461795",
@@ -2337,7 +2372,8 @@
         "label": "Enseignement scientifique",
         "value": 11.5
       }
-    }
+    },
+    "eps_grade": 12.33
   },
   {
     "candidate_id": "02445928233",
@@ -2402,7 +2438,8 @@
         "label": "Enseignement scientifique",
         "value": 11.9
       }
-    }
+    },
+    "eps_grade": 18.0
   },
   {
     "candidate_id": "02247788101",
@@ -2467,7 +2504,8 @@
         "label": "Enseignement scientifique",
         "value": 14.6
       }
-    }
+    },
+    "eps_grade": 18.0
   },
   {
     "candidate_id": "02445928546",
@@ -2532,7 +2570,8 @@
         "label": "Enseignement scientifique",
         "value": 16.4
       }
-    }
+    },
+    "eps_grade": 14.0
   },
   {
     "candidate_id": "02246461804",
@@ -2597,7 +2636,8 @@
         "label": "Enseignement scientifique",
         "value": 14.4
       }
-    }
+    },
+    "eps_grade": 18.83
   },
   {
     "candidate_id": "02445928615",
@@ -2662,7 +2702,8 @@
         "label": "Enseignement scientifique",
         "value": 11.2
       }
-    }
+    },
+    "eps_grade": 15.0
   },
   {
     "candidate_id": "02147160592",
@@ -2727,7 +2768,8 @@
         "label": "Enseignement scientifique",
         "value": 10.0
       }
-    }
+    },
+    "eps_grade": 19.0
   },
   {
     "candidate_id": "02445928354",
@@ -2792,7 +2834,8 @@
         "label": "Enseignement scientifique",
         "value": 13.8
       }
-    }
+    },
+    "eps_grade": 16.0
   },
   {
     "candidate_id": "02246461814",
@@ -2857,7 +2900,8 @@
         "label": "Enseignement scientifique",
         "value": 13.9
       }
-    }
+    },
+    "eps_grade": 18.5
   },
   {
     "candidate_id": "02445928514",
@@ -2922,7 +2966,8 @@
         "label": "Enseignement scientifique",
         "value": 10.2
       }
-    }
+    },
+    "eps_grade": 17.0
   },
   {
     "candidate_id": "02147160670",
@@ -2987,7 +3032,8 @@
         "label": "Enseignement scientifique",
         "value": 12.0
       }
-    }
+    },
+    "eps_grade": "dispense"
   },
   {
     "candidate_id": "02445928720",
@@ -3052,7 +3098,8 @@
         "label": "Enseignement scientifique",
         "value": 9.8
       }
-    }
+    },
+    "eps_grade": 14.42
   },
   {
     "candidate_id": "02246461820",
@@ -3117,6 +3164,7 @@
         "label": "Enseignement scientifique",
         "value": 13.5
       }
-    }
+    },
+    "eps_grade": 15.0
   }
 ]

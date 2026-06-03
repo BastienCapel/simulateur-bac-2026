@@ -182,7 +182,16 @@ export async function exportIndividualToExcel(student, sim, results) {
     setCell(r, 1, label, { bg });
     ws.getCell(r, 1).border = border("hair");
 
-    if (value !== null && value !== undefined) {
+    if (opts.isDispensed) {
+      setCell(r, 2, "Disp.", { bold: true, color: C.refuse, align: "center", bg });
+      ws.getCell(r, 2).border = border("hair");
+      
+      setCell(r, 3, "Élève dispensé d'épreuve", { size: 9, color: "9E2A2B", bg });
+      ws.getCell(r, 3).border = border("hair");
+      
+      setCell(r, 4, "Dispensé", { bold: true, color: C.refuse, align: "center", bg });
+      ws.getCell(r, 4).border = border("hair");
+    } else if (value !== null && value !== undefined) {
       const col = opts.color ?? gradeColor(value);
       
       // Numerical cell
@@ -290,8 +299,11 @@ export async function exportIndividualToExcel(student, sim, results) {
   });
   r++;
 
-  // ─── Contrôle Continu Terminale (Coef 19) ──────────────────────────────────
-  drawSectionHeader("CONTRÔLE CONTINU — CLASSE DE TERMINALE  (Coef. 19 / 40)");
+  // ─── Contrôle Continu Terminale (Coef 19 or 13 if EPS is dispensed) ────────
+  const isEpsDispensed = student.eps_grade === 'dispense';
+  const cc2CoefTotal = isEpsDispensed ? 13 : 19;
+  const ccCoefTotal = isEpsDispensed ? 34 : 40;
+  drawSectionHeader(`CONTRÔLE CONTINU — CLASSE DE TERMINALE  (Coef. ${cc2CoefTotal} / ${ccCoefTotal})`);
 
   const lt001 = student.grades['LT001']?.value ?? 10.0;
   const lt002 = student.grades['LT002']?.value ?? 10.0;
@@ -305,12 +317,28 @@ export async function exportIndividualToExcel(student, sim, results) {
     ["Langue Vivante A Terminale", lt003, "coef. 3", false],
     ["Langue Vivante B Terminale", lt004, "coef. 3", true],
     ["Enseignement Scientifique Terminale", lt005, "coef. 3", false],
-    ["EPS Terminale (Simulé)", sim.eps, "coef. 6", true],
   ];
 
   cc2Rows.forEach(([label, val, detail, alt]) => {
     drawDataRow(label, val, { bar: true, detail, alt });
   });
+
+  // Handle EPS row dynamically:
+  let epsVal = sim.eps;
+  let epsLabel = "EPS Terminale (Simulé)";
+  let epsDetail = "coef. 6";
+  let epsOpts = { bar: true, detail: epsDetail, alt: true };
+
+  if (isEpsDispensed) {
+    epsLabel = "EPS Terminale (Dispensé)";
+    epsOpts = { isDispensed: true, alt: true };
+  } else if (student.eps_grade !== undefined) {
+    epsLabel = "EPS Terminale (Note Réelle)";
+    epsVal = student.eps_grade;
+    epsOpts = { bar: true, color: C.admis, detail: "coef. 6 (Réel)", alt: true };
+  }
+
+  drawDataRow(epsLabel, epsVal, epsOpts);
 
   // Moyenne CC Box
   for (let c = 1; c <= 4; c++) applyFill(ws.getCell(r, c), C.summaryBg);
@@ -449,8 +477,9 @@ export async function exportIndividualToExcel(student, sim, results) {
   // Calculate dynamic goals based on actual acquired points
   const totalCcPoints = results.totalCcPoints;
   const frenchPoints = (sim.frenchWritten * 5) + (sim.frenchOral * 5);
-  const acquiredPoints = totalCcPoints + frenchPoints; // total coefficient 50
+  const acquiredPoints = totalCcPoints + frenchPoints; // total coefficient 50 or 44
   const remainingCoef = 50; // Spe 1 (16) + Spe 2 (16) + Philo (8) + Grand Oral (10) = 50
+  const totalBacCoef = isEpsDispensed ? 94.0 : 100.0;
 
   const targets = [
     { label: "Baccalauréat (Admis)", target: 10.0 },
@@ -462,7 +491,7 @@ export async function exportIndividualToExcel(student, sim, results) {
 
   targets.forEach((target, i) => {
     const bg = i % 2 === 0 ? C.white : C.altRow;
-    const neededPoints = (target.target * 100) - acquiredPoints;
+    const neededPoints = (target.target * totalBacCoef) - acquiredPoints;
     const noteMin = neededPoints / remainingCoef;
 
     let feasibility;
@@ -722,6 +751,23 @@ function buildCohortSheet(wb, sheetName, rows, simulations, exportedAt) {
       statusColor = C.refuse;
     }
 
+
+    let epsCellVal = "—";
+    let epsCellColor = undefined;
+    let epsCellBold = false;
+
+    if (s.eps_grade === 'dispense') {
+      epsCellVal = "Disp.";
+      epsCellColor = C.refuse;
+      epsCellBold = true;
+    } else if (s.eps_grade !== undefined) {
+      epsCellVal = Number(s.eps_grade.toFixed(1));
+      epsCellColor = C.admis;
+      epsCellBold = true;
+    } else if (sim.eps !== undefined) {
+      epsCellVal = Number(sim.eps.toFixed(1));
+    }
+
     const cellsData = [
       { value: idx, align: "center" },
       { value: s.family_name, bold: true },
@@ -742,7 +788,7 @@ function buildCohortSheet(wb, sheetName, rows, simulations, exportedAt) {
       { value: sim.spe2 !== undefined ? Number(sim.spe2.toFixed(1)) : "—", align: "center" },
       { value: sim.philo !== undefined ? Number(sim.philo.toFixed(1)) : "—", align: "center" },
       { value: sim.grandOral !== undefined ? Number(sim.grandOral.toFixed(1)) : "—", align: "center" },
-      { value: sim.eps !== undefined ? Number(sim.eps.toFixed(1)) : "—", align: "center" },
+      { value: epsCellVal, align: "center", color: epsCellColor, bold: epsCellBold },
       {
         value: Number(results.terminalAverage.toFixed(2)),
         align: "center",

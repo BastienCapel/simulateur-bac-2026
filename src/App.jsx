@@ -45,7 +45,7 @@ function App() {
         spe2: 10.0,
         philo: 10.0,
         grandOral: 10.0,
-        eps: 10.0,
+        eps: (student.eps_grade !== undefined && student.eps_grade !== 'dispense') ? student.eps_grade : 10.0,
         frenchWritten: student.french_written !== null ? student.french_written : 10.0,
         frenchOral: student.french_oral !== null ? student.french_oral : 10.0,
         isFrenchMissing: student.french_written === null
@@ -72,7 +72,7 @@ function App() {
 
   // 2. Calculations Helper Functions
   const calculateStudentResults = (student, sim) => {
-    // A. Continuous Control Points (40 Coefficients)
+    // A. Continuous Control Points (40 Coefficients normally, 34 if EPS is dispensed)
     const lp001 = student.grades['LP001']?.value ?? 10.0 // HG 1ère
     const lt001 = student.grades['LT001']?.value ?? 10.0 // HG Term
     const hgPoints = (lp001 * 3) + (lt001 * 3) // Coef 6
@@ -96,10 +96,22 @@ function App() {
     const droppedSpec = student.dropped_specialty?.value ?? 10.0 // Specialty dropped 1ère (Coef 8)
     const droppedSpecPoints = droppedSpec * 8
     
-    const epsPoints = sim.eps * 6 // Simulated EPS (Coef 6)
+    // EPS logic:
+    let epsPoints = 0
+    let ccCoef = 40.0
+    let isEpsDispensed = false
+    
+    if (student.eps_grade === 'dispense') {
+      isEpsDispensed = true
+      ccCoef = 34.0 // 40 - 6
+    } else if (student.eps_grade !== undefined) {
+      epsPoints = student.eps_grade * 6
+    } else {
+      epsPoints = sim.eps * 6
+    }
     
     const totalCcPoints = hgPoints + emcPoints + lvaPoints + lvbPoints + sciPoints + droppedSpecPoints + epsPoints
-    const ccAverage = totalCcPoints / 40.0
+    const ccAverage = totalCcPoints / ccCoef
     
     // B. Terminal Exams Points (60 Coefficients)
     const frWrittenPoints = sim.frenchWritten * 5
@@ -112,8 +124,9 @@ function App() {
     const totalTerminalPoints = frWrittenPoints + frOralPoints + spe1Points + spe2Points + philoPoints + grandOralPoints
     const terminalAverage = totalTerminalPoints / 60.0
     
-    // C. Overall Weighted Average (100 Coefficients)
-    const finalAverage = (totalCcPoints + totalTerminalPoints) / 100.0
+    // C. Overall Weighted Average (100 Coefficients or 94 if EPS is dispensed)
+    const totalBacCoef = isEpsDispensed ? 94.0 : 100.0
+    const finalAverage = (totalCcPoints + totalTerminalPoints) / totalBacCoef
     
     // D. Status and Mentions
     let status = 'Refusé'
@@ -144,7 +157,8 @@ function App() {
       status,
       mention,
       totalCcPoints,
-      totalTerminalPoints
+      totalTerminalPoints,
+      isEpsDispensed
     }
   }
 
@@ -215,7 +229,7 @@ function App() {
         spe2: 10.0,
         philo: 10.0,
         grandOral: 10.0,
-        eps: 10.0,
+        eps: (student.eps_grade !== undefined && student.eps_grade !== 'dispense') ? student.eps_grade : 10.0,
         frenchWritten: student.french_written !== null ? student.french_written : 10.0,
         frenchOral: student.french_oral !== null ? student.french_oral : 10.0,
         isFrenchMissing: student.french_written === null
@@ -231,7 +245,7 @@ function App() {
         spe2: 10.0,
         philo: 10.0,
         grandOral: 10.0,
-        eps: 10.0,
+        eps: (student.eps_grade !== undefined && student.eps_grade !== 'dispense') ? student.eps_grade : 10.0,
         frenchWritten: student.french_written !== null ? student.french_written : 10.0,
         frenchOral: student.french_oral !== null ? student.french_oral : 10.0,
         isFrenchMissing: student.french_written === null
@@ -312,7 +326,7 @@ function App() {
     if (!activeStudent || !activeSim) return []
     
     // Points already acquired:
-    // Total CC (Coef 40):
+    // Total CC:
     const lp001 = activeStudent.grades['LP001']?.value ?? 10.0
     const lt001 = activeStudent.grades['LT001']?.value ?? 10.0
     const hgPoints = (lp001 * 3) + (lt001 * 3)
@@ -336,15 +350,26 @@ function App() {
     const droppedSpec = activeStudent.dropped_specialty?.value ?? 10.0
     const droppedSpecPoints = droppedSpec * 8
     
-    const epsPoints = activeSim.eps * 6
+    // EPS dynamic check
+    let epsPoints = 0
+    let isEpsDispensed = false
+    
+    if (activeStudent.eps_grade === 'dispense') {
+      isEpsDispensed = true;
+    } else if (activeStudent.eps_grade !== undefined) {
+      epsPoints = activeStudent.eps_grade * 6;
+    } else {
+      epsPoints = activeSim.eps * 6;
+    }
     
     const totalCcPoints = hgPoints + emcPoints + lvaPoints + lvbPoints + sciPoints + droppedSpecPoints + epsPoints
     
     // French: written (coef 5) + oral (coef 5)
     const frenchPoints = (activeSim.frenchWritten * 5) + (activeSim.frenchOral * 5)
     
-    const acquiredPoints = totalCcPoints + frenchPoints // Total coefficient 50
+    const acquiredPoints = totalCcPoints + frenchPoints
     const remainingCoef = 50 // Spé 1 (16) + Spé 2 (16) + Philo (8) + Grand Oral (10)
+    const totalBacCoef = isEpsDispensed ? 94.0 : 100.0
     
     const targets = [
       { label: "Baccalauréat (Admis)", target: 10.0 },
@@ -355,7 +380,7 @@ function App() {
     ]
     
     return targets.map(t => {
-      const neededPoints = (t.target * 100) - acquiredPoints
+      const neededPoints = (t.target * totalBacCoef) - acquiredPoints
       if (neededPoints <= 0) {
         return { label: t.label, target: t.target, note: "Déjà acquise", status: "acquired" }
       }
@@ -719,36 +744,59 @@ function App() {
                       <span className="grade-val">{activeStudent.grades['LT002']?.value?.toFixed(2).replace('.', ',') || "10,00"}</span>
                     </div>
                     
-                    {/* EPS SIMULATION FIELD */}
-                    <div className="grade-row" style={{ borderBottomColor: 'var(--primary)' }}>
-                      <span className="grade-label-highlight" style={{ color: 'var(--primary)' }}>EPS (Simulé - Coef 6)</span>
-                      <span className="grade-val" style={{ color: 'var(--primary)' }}>{activeSim.eps.toFixed(2).replace('.', ',')}</span>
-                    </div>
+                    {/* EPS FIELD */}
+                    {activeStudent.eps_grade === 'dispense' ? (
+                      <div className="grade-row" style={{ borderBottomColor: 'var(--danger-text)' }}>
+                        <span className="grade-label-highlight" style={{ color: 'var(--danger-text)' }}>EPS (Dispensé)</span>
+                        <span className="badge-real" style={{ backgroundColor: 'var(--danger-text)', color: 'white' }}>Dispensé</span>
+                      </div>
+                    ) : activeStudent.eps_grade !== undefined ? (
+                      <div className="grade-row" style={{ borderBottomColor: 'var(--success-text)' }}>
+                        <span className="grade-label-highlight" style={{ color: 'var(--success-text)' }}>EPS (Note Réelle)</span>
+                        <span className="grade-val" style={{ color: 'var(--success-text)' }}>{activeStudent.eps_grade.toFixed(2).replace('.', ',')}</span>
+                      </div>
+                    ) : (
+                      <div className="grade-row" style={{ borderBottomColor: 'var(--primary)' }}>
+                        <span className="grade-label-highlight" style={{ color: 'var(--primary)' }}>EPS (Simulé - Coef 6)</span>
+                        <span className="grade-val" style={{ color: 'var(--primary)' }}>{activeSim.eps.toFixed(2).replace('.', ',')}</span>
+                      </div>
+                    )}
                   </div>
                 </div>
                 
                 {/* EPS SLIDER CONTROL */}
-                <div style={{ marginTop: '0.75rem', display: 'flex', gap: '1rem', alignItems: 'center' }}>
-                  <span className="sim-coef" style={{ minWidth: '100px' }}>Simuler l'EPS:</span>
-                  <input 
-                    type="range" 
-                    min="0" 
-                    max="20" 
-                    step="0.1" 
-                    className="slider"
-                    value={activeSim.eps}
-                    onChange={(e) => handleGradeChange(activeStudent.full_id, 'eps', e.target.value)}
-                  />
-                  <input 
-                    type="number" 
-                    min="0" 
-                    max="20" 
-                    step="0.1"
-                    className="sim-num-input"
-                    value={activeSim.eps}
-                    onChange={(e) => handleGradeChange(activeStudent.full_id, 'eps', e.target.value)}
-                  />
-                </div>
+                {activeStudent.eps_grade === undefined ? (
+                  <div style={{ marginTop: '0.75rem', display: 'flex', gap: '1rem', alignItems: 'center' }}>
+                    <span className="sim-coef" style={{ minWidth: '100px' }}>Simuler l'EPS:</span>
+                    <input 
+                      type="range" 
+                      min="0" 
+                      max="20" 
+                      step="0.1" 
+                      className="slider"
+                      value={activeSim.eps}
+                      onChange={(e) => handleGradeChange(activeStudent.full_id, 'eps', e.target.value)}
+                    />
+                    <input 
+                      type="number" 
+                      min="0" 
+                      max="20" 
+                      step="0.1"
+                      className="sim-num-input"
+                      value={activeSim.eps}
+                      onChange={(e) => handleGradeChange(activeStudent.full_id, 'eps', e.target.value)}
+                    />
+                  </div>
+                ) : activeStudent.eps_grade === 'dispense' ? (
+                  <div style={{ marginTop: '0.75rem', padding: '0.5rem 0.75rem', fontSize: '0.8rem', backgroundColor: 'var(--bg-main)', borderLeft: '3px solid var(--danger-text)', borderRadius: '0.25rem' }}>
+                    <strong>Note d'exemption :</strong> Cet élève est dispensé d'EPS. Le coefficient total du Contrôle Continu est de <strong>34</strong> et le coefficient global du Baccalauréat est de <strong>94</strong> au lieu de 100.
+                  </div>
+                ) : (
+                  <div style={{ marginTop: '0.75rem', padding: '0.5rem 0.75rem', fontSize: '0.8rem', backgroundColor: 'var(--bg-main)', borderLeft: '3px solid var(--success-text)', borderRadius: '0.25rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <span><strong>Note réelle verrouillée :</strong> Évaluation d'EPS sur l'année de {activeStudent.eps_grade.toFixed(2).replace('.', ',')}/20.</span>
+                    <span className="badge-real" style={{ alignSelf: 'center', marginLeft: '0.5rem' }}>Note réelle</span>
+                  </div>
+                )}
                 <div className="modal-section-description">Moyenne pondérée du contrôle continu, soit 40 % de la note finale.</div>
               </div>
 
